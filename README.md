@@ -1,3 +1,4 @@
+--------- taller clase 1 ---------
 ¿Cual es la diferencia entre la clase CuentaBancaria y un objeto CuentaBancaria?
 R: la dieferencia es q la clase y un objeto es q la clase es la rama principal y el objeto son las entidads q hacen parte de esta rama.
 
@@ -14,3 +15,19 @@ Propón una entidad distinta a las trabajadas e indica dos de sus atributos y do
 entidad (Profesor)
 atributos: String Nombre, double NotaFinal
 metodos: Enseñar(), calificar()
+
+
+
+
+--------- taller 2 ---------
+ ¿Qué ventaja tiene dibujar el diagrama UML antes de escribir el código?**
+Permite organizar y visualizar la estructura de la clase antes de programarla, evitando errores y haciendo más claro el desarrollo.
+
+¿A qué parte del código corresponde cada una de las tres divisiones del diagrama de clases?**
+La primera corresponde al **nombre de la clase**, la segunda a sus **atributos** y la tercera a sus **métodos**.
+
+ ¿Cuál es la diferencia entre un comentario `//` y un bloque `/** ... */` de Javadoc?**
+El comentario `//` sirve para hacer anotaciones dentro del código. El bloque `/** ... */` sirve para documentar clases y métodos y puede utilizarse para generar documentación HTML.
+
+ ¿Por qué es importante documentar el código en un equipo de trabajo?**
+Porque permite que otros programadores entiendan fácilmente cómo funciona el código, facilitando su mantenimiento, corrección y modificación.
